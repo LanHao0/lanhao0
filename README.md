@@ -1,6 +1,6 @@
 ## Hi there 👋! 
 #### Lately sync:
-- 2023 Mar. 🎨近期揭晓！在设计上的新高度！
+- 2023 Mar. 🎨🏅[大河报首届河南省数字艺术创作大赛 优秀奖](https://mp.weixin.qq.com/s/73Usdd42n8bMnn6F4GTUNw)
 - 2022 Dec. 🥇[腾讯文档协同杯创意插件大赛 一等奖](https://mp.weixin.qq.com/s?__biz=MzU0MDU2OTMwNA==&mid=2247517461&idx=2&sn=e453d53d1a855d9a7fef56d84ad99ad9)
 - 2022 Dec. 🏅[奥派松开源挑战赛 最佳人气奖](https://mp.weixin.qq.com/s/5EAXHA131IR1jmun4fLvaA)
 - 2022 Mar. 🎶制作的歌曲登上QQ音乐飙升榜1天
